@@ -1,3 +1,7 @@
 ======= source crud
 
 https://dcodemania.com/post/crud-application-image-upload-laravel-8-ajax-sweetalert-datatable
+
+===== when cannot push to github 
+after generate new token
+git remote set-url origin https://<token>@github.com/<username>/<repo>
